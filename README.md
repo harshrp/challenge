@@ -1,5 +1,8 @@
 # Changes done for supporting transfer
 
+## Upgrade from version 2.6 to 3.2.10
+- *Used stable release for SpringBoot*
+
 ## TransactionsController
 
 - **Added Transfer Endpoint**:
